@@ -1,2 +1,1 @@
-# demo
-this is first repository 
+me nhi to kon be ?
